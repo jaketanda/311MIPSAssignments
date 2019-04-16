@@ -2,6 +2,9 @@
 # Assignment 3
 # CSCI 311
 
+# Reads a positive number from the user
+# and prints all the prime numbers between 0 and that number.
+
 .text
 .globl main
 
