@@ -5,6 +5,9 @@
 .text
 .globl main
 
+# Recursive towers of hanoi problem. 
+# Has user input the number of discs and calculates the steps needed to complete the game.
+
 main:
 	addi $sp, $sp, -4 # make room in $sp
 	sw $ra, 0($sp)    # store $ra 
