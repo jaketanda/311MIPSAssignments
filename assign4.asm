@@ -2,6 +2,9 @@
 # Assignment 4
 # CSCI 311
 
+# function calling: saves the prime numbers from assignment 3 in an array
+# and uses a function to print all of the numbers in the array.
+
 .text
 .globl main
 
